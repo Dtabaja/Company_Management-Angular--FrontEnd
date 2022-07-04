@@ -1,4 +1,19 @@
-# AngularAdmin
+# Description - Backend side
+A Company - Sales FrontEnd Program. 
+
+## BackEnd Side: 
+[FrontEnd-NestJs](https://github.com/Dtabaja/Company_Manegment-nestJs-Backend)
+
+## Includes:
+
+1. Daily sales
+2. List of all the user.
+3. List of all the Products.
+4. List of all the Orders.
+5. List of all the roles that can be given to the users.
+
+
+## AngularAdmin
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 14.0.3.
 
